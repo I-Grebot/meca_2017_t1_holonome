@@ -1,0 +1,9 @@
+[submodule "meca_lib_omniwheel"]
+	path = meca_lib_omniwheel
+	url = https://github.com/I-Grebot/meca_lib_omniwheel
+[submodule "meca_lib_motors"]
+	path = meca_lib_motors
+	url = https://github.com/I-Grebot/meca_lib_motors
+[submodule "meca_lib_miscellaneous"]
+	path = meca_lib_miscellaneous
+	url = https://github.com/I-Grebot/meca_lib_miscellaneous
